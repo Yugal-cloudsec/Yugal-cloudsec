@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Yugal
 
-<!--
-**Yugal-cloudsec/Yugal-cloudsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring AWS Cloud Security Engineer  
+🌍 Open to Global Opportunities  
 
-Here are some ideas to get you started:
+### ☁️ Skills
+- AWS IAM
+- VPC Security
+- CloudTrail & GuardDuty
+- KMS & Secrets Manager
+- Terraform (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects (In Progress)
+- Secure AWS Account Setup
+- DevSecOps CI/CD Pipeline
+- AWS Incident Response Automation
